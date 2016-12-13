@@ -1,0 +1,8 @@
+
+Notes
+
+- went to github and created a new repository called basic repo
+- created basicrepo folder, txt, css, and html file.
+- pushed to github
+- edited text file and re-uploaded
+
